@@ -105,7 +105,7 @@ A proposta do sistema é oferecer um ambiente digital que centralize todas essas
 
 ## 👨‍💻 Autores
 
-**Luidy Michael**  
+**Luidy Michael**
 📚 Sistemas de Informação  
 
 **Pablo Silva**
